@@ -1,0 +1,9 @@
+Se han configurado los colores en automático a nivel global. Se pueden configurar manualmente, por ejemplo:
+
+git config --global color.branch.remote "red"
+
+Además, lo podemos configurar a nivel de repositorio entrando en la carpeta del repositorio y ejecutando:
+
+git config color.ui auto
+
+
